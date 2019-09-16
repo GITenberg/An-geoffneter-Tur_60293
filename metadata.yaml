@@ -1,5 +1,8 @@
 _repo: An-geoffneter-Tur_60293
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60293-h/images/cover.jpg
 creator:
   author:
     agent_name: Sudermann, Clara
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26292
     wikipedia: http://de.wikipedia.org/wiki/Clara_Sudermann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60293#An-geoffneter-Tur
 gutenberg_issued: '2019-09-14'
 gutenberg_type: Text
 identifiers:
